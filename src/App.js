@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Accordion from 'react-bootstrap/lib/Accordion'
+//import Accordion from 'react-bootstrap/lib/Accordion'
 import Panel from 'react-bootstrap/lib/Panel'
 import PanelGroup from 'react-bootstrap/lib/PanelGroup'
 import Button from 'react-bootstrap/lib/Button'
