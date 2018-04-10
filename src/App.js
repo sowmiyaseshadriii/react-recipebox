@@ -123,7 +123,7 @@ componentDidMount(){
                   >
                   </FormControl>
                   <FormGroup controlId="formControlsTextarea">
-                  <ControlLabel>Recipe Name</ControlLabel>
+                  <ControlLabel>Recipe Ingredients</ControlLabel>
                   <FormControl 
                   componentClass="textarea" 
                   //value={newRecipe.recipeName} 
